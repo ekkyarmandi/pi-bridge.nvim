@@ -2,6 +2,8 @@
 
 Send a visual selection from Neovim to an open [pi](https://github.com/earendil-works/pi) session as context, through [pi-intercom](https://www.npmjs.com/package/pi-intercom).
 
+![pi-bridge.nvim demo](assets/demo.gif)
+
 The selection arrives in pi with its file path and line range, plus an optional note you type before sending:
 
 ````
